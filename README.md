@@ -1,1 +1,1 @@
-Star Wars Greeter Project (no script yet)
+Star Wars Greeter Project
